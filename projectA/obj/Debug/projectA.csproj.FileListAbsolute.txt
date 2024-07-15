@@ -1,0 +1,62 @@
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.csprojAssemblyReference.cache
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.Properties.Resources.resources
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.View.resources
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\bin\Debug\projectA.exe.config
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\bin\Debug\projectA.exe
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\bin\Debug\projectA.pdb
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.exe
+C:\Users\Avindu Aloka\source\repos\projectA\projectA\obj\Debug\projectA.pdb
+D:\projectA\projectA\bin\Debug\projectA.exe.config
+D:\projectA\projectA\bin\Debug\projectA.exe
+D:\projectA\projectA\bin\Debug\projectA.pdb
+D:\projectA\projectA\obj\Debug\projectA.csprojAssemblyReference.cache
+D:\projectA\projectA\obj\Debug\projectA.Form1.resources
+D:\projectA\projectA\obj\Debug\projectA.Properties.Resources.resources
+D:\projectA\projectA\obj\Debug\projectA.View.resources
+D:\projectA\projectA\obj\Debug\projectA.csproj.GenerateResource.cache
+D:\projectA\projectA\obj\Debug\projectA.exe
+D:\projectA\projectA\obj\Debug\projectA.pdb
+C:\Users\gihan\Desktop\projectA\projectA\bin\Debug\projectA.exe.config
+C:\Users\gihan\Desktop\projectA\projectA\bin\Debug\projectA.exe
+C:\Users\gihan\Desktop\projectA\projectA\bin\Debug\projectA.pdb
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.csprojAssemblyReference.cache
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.Properties.Resources.resources
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.View.resources
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.csproj.GenerateResource.cache
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.exe
+C:\Users\gihan\Desktop\projectA\projectA\obj\Debug\projectA.pdb
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\bin\Debug\projectA.exe.config
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\bin\Debug\projectA.exe
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\bin\Debug\projectA.pdb
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.Properties.Resources.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.View.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.exe
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.pdb
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.PreLoadedWindow.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.CloseButton.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.ViewFutureDataOfAddingData.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.FutureCustomerNotes.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.csproj.ResolveComReference.cache
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.InvoicePrint.resources
+C:\Users\Avindu Aloka\Desktop\projectA\projectA\obj\Debug\projectA.csprojAssemblyReference.cache
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\bin\Debug\projectA.exe.config
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\bin\Debug\projectA.exe
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\bin\Debug\projectA.pdb
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.csprojAssemblyReference.cache
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.csproj.ResolveComReference.cache
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.CloseButton.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.Form1.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.FutureCustomerNotes.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.InvoicePrint.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.PreLoadedWindow.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.Properties.Resources.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.View.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.ViewFutureDataOfAddingData.resources
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.exe
+C:\Users\Avindu Aloka\Desktop\Main Build Successfull Project A\projectA\obj\Debug\projectA.pdb
